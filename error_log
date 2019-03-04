@@ -1,0 +1,7 @@
+[02-Mar-2019 22:30:00 UTC] PHP Fatal error:  Class 'App\model\PDO' not found in /home/czsoftco/public_html/phpteste/App/model/Connection.php on line 17
+[02-Mar-2019 22:30:01 UTC] PHP Fatal error:  Class 'App\model\PDO' not found in /home/czsoftco/public_html/phpteste/App/model/Connection.php on line 17
+[04-Mar-2019 00:45:14 UTC] PHP Fatal error:  Class 'App\User' not found in /home/czsoftco/public_html/phpteste/index.php on line 78
+[04-Mar-2019 00:53:27 UTC] PHP Fatal error:  Class name must be a valid object or a string in /home/czsoftco/public_html/phpteste/index.php on line 79
+[04-Mar-2019 00:54:50 UTC] PHP Fatal error:  Class 'app\User' not found in /home/czsoftco/public_html/phpteste/index.php on line 78
+[04-Mar-2019 00:55:28 UTC] PHP Fatal error:  Class 'App\User' not found in /home/czsoftco/public_html/phpteste/index.php on line 78
+[04-Mar-2019 00:55:36 UTC] PHP Fatal error:  Class 'App\User' not found in /home/czsoftco/public_html/phpteste/index.php on line 78
